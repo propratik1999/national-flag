@@ -1,0 +1,30 @@
+.p_container{
+    width: 1200px;
+    height: 800px;
+    background-color: red;
+    margin: auto;
+}
+.common{
+    width: 100%;
+    height:266px;
+}
+.p_orange{
+    background-color: orange;
+}
+.p_white{
+    background-color: white;
+}
+.p_green{
+    background-color: green;
+}
+.p_chakra{
+    width: 266px;
+    height: 266px;
+  
+    margin: auto;
+    border-radius: 266px;
+
+}
+div.p_chakra img{
+    height: 266px;
+}
